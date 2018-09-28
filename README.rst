@@ -1,4 +1,4 @@
-dev-gcc-kit Overlay
+dev-xorg-kit Overlay
 ===================
 
 Work-in-progress ebuild updates/rewrites for xorg and friends.
